@@ -13,6 +13,7 @@
 ## 科学
 
 1. 《[经济学原理-微观经济学分册](https://note.youdao.com/share/?id=f9a6f85056f6e31c548dc3e8dbdacc30&type=note#/)》，By【美】曼昆，At 2018年2月
+2. 《我们为什么要去火星》，By【美】斯蒂芬•彼得拉内克（Stephen Petranek），At 2018年12月
 
 ## 文学
 
