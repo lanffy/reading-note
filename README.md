@@ -2,6 +2,8 @@
 
 一些值得记录的读书笔记。
 
+[时间排序](https://github.com/lanffy/reading-note/blob/master/Reading-Note-By-Time.md)
+
 :+1: 表示推荐，:x: 表示不用看
 
 ## 索引
